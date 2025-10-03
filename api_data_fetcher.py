@@ -3,7 +3,7 @@ import pandas as pd
 from openai import OpenAI
 
 # ===== CONFIG =====
-OPENWEATHER_API_KEY = "0e2dd5fb153276b5a7759993c06a1480"
+OPENWEATHER_API_KEY = "your_api_key_here"
 cities = ["Dhaka", "New York", "London", "Tokyo", "Paris"]
 
 # ===== FETCH WEATHER DATA =====
